@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "753482130358",
+    "project_id": "yilink-health",
+    "storage_bucket": "yilink-health.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753482130358:android:edea9baa4b42050c871717",
+        "android_client_info": {
+          "package_name": "com.example.yilink_health_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753482130358-mof29ikrk5mfjojairrk92v3taf7emf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yilink_health_mobile",
+            "certificate_hash": "2708225c7a00f544700bcb1bc55424459eaa2e66"
+          }
+        },
+        {
+          "client_id": "753482130358-f40cgvvtc51bdlt4ir5fa2b2nbp00q5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnqnioPiLEWEdWzYWYblufru1ahVAcKho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753482130358-f40cgvvtc51bdlt4ir5fa2b2nbp00q5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753482130358-cbqbnp6t7u9r8t993h5j2gtsjbdh7rsa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yilinkHealthMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,82 @@
+# ============================================================
+# Miscellaneous
+# ============================================================
+
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# ============================================================
+# IntelliJ / Android Studio
+# ============================================================
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# ============================================================
+# VS Code
+# ============================================================
+
+# Keep VS Code settings out of Git
+.vscode/
+
+# ============================================================
+# Flutter / Dart / Pub
+# ============================================================
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter_tool/
+.packages
+.pub/
+.pub-cache/
+
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+/build/
+/coverage/
+
+# ============================================================
+# Flutter generated files
+# ============================================================
+
+app.*.symbols
+app.*.map.json
+
+# ============================================================
+# Android build files
+# ============================================================
+
+android/.gradle/
+android/app/build/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# ============================================================
+# Android signing secrets
+# ============================================================
+
+android/key.properties
+android/app/*.jks
+android/app/*.keystore
+
+# ============================================================
+# Local configuration / secrets
+# ============================================================
+
+.env
+.env.*
