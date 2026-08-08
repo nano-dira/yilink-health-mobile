@@ -204,7 +204,7 @@ The future roadmap includes an AI-powered healthcare concierge that can help pat
 ## Security & Trust
 
 | Area | Implementation |
-|---|---|---|
+|---|---|
 | **Authentication** | Firebase Authentication · Google Sign-In |
 | **Security** | Semgrep automated scanning · GitHub Actions |
 | **Data** | Firebase · Cloud Firestore |
